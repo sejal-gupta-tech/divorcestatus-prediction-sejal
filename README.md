@@ -109,7 +109,7 @@ Random Forest achieved [0.7083333333333334%] accuracy.
 
 1. Clone this repository:
 
-git clone 
+git clone https://github.com/sejal-gupta-tech/divorcestatus-prediction-sejal
 
 
 2. Install dependencies:
